@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851848127892",
+    "project_id": "shop-70451",
+    "storage_bucket": "shop-70451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851848127892:android:9cfedd7ab5e8c9b46d1b81",
+        "android_client_info": {
+          "package_name": "com.example.shoper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851848127892-dgnu6slj0dr4tuaj1p4p03cpit7bo8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4iBq3jUzuTifpGpl5i4qU99VZTg-jKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851848127892-dgnu6slj0dr4tuaj1p4p03cpit7bo8s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
